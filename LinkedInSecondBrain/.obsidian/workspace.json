@@ -1,0 +1,273 @@
+{
+  "main": {
+    "id": "41a6b8e668cbb9f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4a88a9f63e1aa5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1625c4937efc52f9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29abb8eb5643c9cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "d91a0bad0c7ed089",
+        "type": "tabs",
+        "dimension": 70.58823529411765,
+        "children": [
+          {
+            "id": "a83562435e5d75b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "88af0fa363b2809e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "83e8b724c2b1fb32",
+        "type": "tabs",
+        "dimension": 29.411764705882355,
+        "children": [
+          {
+            "id": "bd68f869dedca907",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "bff424a146686eca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 324.5
+  },
+  "right": {
+    "id": "e097fb3699a615ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0d3dceb8a73d9d0",
+        "type": "tabs",
+        "dimension": 24.327485380116958,
+        "children": [
+          {
+            "id": "122fa56f0c3fc01b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2ab7abeb0cda9eec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "23ccc51f43e6049c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "62997966f94efbf2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d5e846f7c8a57cce",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "0b05d76037948644",
+        "type": "tabs",
+        "dimension": 52.28070175438595,
+        "children": [
+          {
+            "id": "5952a860b039a453",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "c847376ecaca3053",
+        "type": "tabs",
+        "dimension": 23.39181286549708,
+        "children": [
+          {
+            "id": "beedd2cb7d1ec9d3",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6577169471499419,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "bd1a6f2c97b831e1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 438.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": true,
+      "random-note:Open random note": true,
+      "audio-recorder:Start/stop recording": true,
+      "workspaces:Manage workspace layouts": true,
+      "daily-notes:Open today's daily note": true,
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": true,
+      "periodic-notes:Open today's daily note": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "dbfolder:Create a new database table": true,
+      "obsidian-textgenerator-plugin:Generate Text!": true,
+      "extract-highlights-plugin:Extract Highlights": true,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": true
+    }
+  },
+  "active": "a83562435e5d75b6",
+  "lastOpenFiles": [
+    "LinkedInSecondBrain.md",
+    "S01 LinkedIn/S01 Personal.md",
+    "Home.md",
+    "🌱 Start Here.md",
+    "S01 LinkedIn/100-199 Projects/110 Building a Second Brain with Obsidian/30-39 Areas/30-39 Areas.md",
+    "S01 LinkedIn/S01 LinkedIn.md",
+    "S00 Second Brain Meta/030-039 Areas/31 Second Brain/Version.md",
+    "S00 Second Brain Meta/030-039 Areas/31 Second Brain/The Folder Structure explained.md",
+    "S00 Second Brain Meta/030-039 Areas/31 Second Brain/Maturity Model for Notes.md",
+    "S00 Second Brain Meta/030-039 Areas/31 Second Brain/About Fleeting Notes, Permanent notes and Literature Notes.md",
+    "S00 Second Brain Meta/030-039 Areas/31 Second Brain/31 Second Brain.md",
+    "S00 Second Brain Meta/030-039 Areas/32 Zettelkasten/Fleeting Notes/Fleeting Notes.md",
+    "S00 Second Brain Meta/030-039 Areas/32 Zettelkasten/Permanent Notes/Permanent Notes.md",
+    "S00 Second Brain Meta/030-039 Areas/32 Zettelkasten/32 Zettelkasten.md",
+    "S00 Second Brain Meta/030-039 Areas/33 Obsidian setup/Currently used Plugins in an overview.md",
+    "S00 Second Brain Meta/README.md",
+    "S00 Second Brain Meta/S00 Second Brain Meta.md",
+    "S02 Your Workplace/010-019 Meta/010-019 Meta.md",
+    "S00 Second Brain Meta/069-069 Utilities/069-069 Utilities.md",
+    "S00 Second Brain Meta/050-059 Resources/050-059 Resources.md",
+    "S01 LinkedIn/060-069 Utilities/64 Templates/TPL Literature Note.md",
+    "S01 LinkedIn/060-069 Utilities/64 Templates/TPL Permanent Note.md",
+    "S01 LinkedIn/060-069 Utilities/64 Templates/TPL Fleeting Note.md"
+  ]
+}

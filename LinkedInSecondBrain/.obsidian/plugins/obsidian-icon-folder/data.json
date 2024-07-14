@@ -1,0 +1,51 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FasCircleArrowRight",
+      "FasHouseUser",
+      "SiNeutralinojs",
+      "FasBrain",
+      "RiMentalHealthFill"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraPadding": {
+      "top": 2,
+      "right": 2,
+      "bottom": 2,
+      "left": 2
+    },
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "emojiStyle": "native",
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false
+  },
+  "S01 Personal/100-199 Projects/101 Hausbau": "FasHouseChimneyUser",
+  "S01 Personal/100-199 Projects/103 Hochzeit": "RiHeartsFill",
+  "S02 Blinkist": "FasBookOpenReader",
+  "S01 Personal/100-199 Projects/107 Build a Cohort Based Agile Class/10-19 Meta/Project MOC.md": "FabBuromobelexperte",
+  "S01 Personal/030-039 Areas/38 Agile/38.45 Agile Learning Path/What is Agile.md": "FasArrowRight",
+  "Home.md": "FasHouseUser",
+  "🌱 Start Here.md": "FasCircleArrowRight",
+  "S00 Second Brain Meta": "FabEnvira",
+  "S00 Second Brain Meta/030-039 Areas/31 Second Brain": "SiNeutralinojs",
+  "S01 LinkedIn": "FasBrain"
+}
