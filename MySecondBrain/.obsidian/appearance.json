@@ -1,0 +1,11 @@
+{
+  "baseFontSize": 16,
+  "cssTheme": "Minimal",
+  "theme": "moonstone",
+  "baseFontSizeAction": true,
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "hideRootFile"
+  ],
+  "showViewHeader": true
+}

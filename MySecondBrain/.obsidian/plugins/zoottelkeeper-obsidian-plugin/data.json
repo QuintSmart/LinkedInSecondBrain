@@ -1,0 +1,19 @@
+{
+  "indexPrefix": "",
+  "indexItemStyle": "pureLink",
+  "indexTagValue": "type/index-note/MOC",
+  "indexTagBoolean": true,
+  "indexTagSeparator": ", ",
+  "indexTagLabel": "tags",
+  "cleanPathBoolean": true,
+  "folderEmoji": ":card_index_dividers:",
+  "fileEmoji": ":page_facing_up:",
+  "enableEmojis": false,
+  "foldersExcluded": "S00 Second Brain Meta/030-039 Areas/31 Second Brain/Ongoing Numbering/",
+  "foldersIncluded": "",
+  "sortOrder": "asc",
+  "addSquareBrackets": false,
+  "embedSubIndex": true,
+  "templateFile": "S01 Personal/060-069 Utilities/64 Templates/zoottel_template.md",
+  "frontMatterSeparator": "--- "
+}

@@ -1,0 +1,8 @@
+{
+  "minimal-advanced@@styled-scrollbars": false,
+  "minimal-advanced@@cursor": "default",
+  "minimal-style@@callouts-style": "callouts-default",
+  "minimal-style@@callout-blend-mode": "var(--highlight-mix-blend-mode)",
+  "minimal-style@@h2-l": false,
+  "minimal-style@@window-title-off": false
+}

@@ -1,0 +1,31 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "S01 Personal/060-069 Utilities/64 Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "S01 Personal/060-069 Utilities/63 Scripts",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "S01 Personal/030-039 Areas/32 Zettelkasten/Fleeting Notes",
+      "template": "S01 Personal/060-069 Utilities/64 Templates/TPL Fleeting Note.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true,
+  "template_folder": "Templates"
+}
