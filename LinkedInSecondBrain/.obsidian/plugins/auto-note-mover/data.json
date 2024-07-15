@@ -4,12 +4,12 @@
   "statusBar_trigger_indicator": true,
   "folder_tag_pattern": [
     {
-      "folder": "S01 Personal/030-039 Areas/32 Zettelkasten/Literature Notes/Book notes",
+      "folder": "S01 LinkedIn/030-039 Areas/32 Zettelkasten/Literature Notes/Book notes",
       "tag": "#bookinbox",
       "pattern": ""
     },
     {
-      "folder": "S01 Personal/030-039 Areas/32 Zettelkasten/Fleeting Notes",
+      "folder": "S01 LinkedIn/030-039 Areas/32 Zettelkasten/Fleeting Notes",
       "tag": "#fastlane",
       "pattern": ""
     }
@@ -17,7 +17,7 @@
   "use_regex_to_check_for_excluded_folder": false,
   "excluded_folder": [
     {
-      "folder": "S01 Personal/060-069 Utilities/64 Templates"
+      "folder": "S01 LinkedIn/060-069 Utilities/64 Templates"
     }
   ]
 }

@@ -1,7 +1,19 @@
 {
-  "folder": "S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Literature Inbox",
+  "folder": "S01 LinkedIn/030-039 Areas/32 Zettelkasten/Literature notes/Literature Inbox",
+  "fileNameFormat": "",
   "frontmatter": "",
   "content": "",
   "useDefaultFrontmatter": true,
-  "defaultFrontmatterKeyType": "Snake Case"
+  "defaultFrontmatterKeyType": "Snake Case",
+  "templateFile": "",
+  "serviceProvider": "google",
+  "naverClientId": "",
+  "naverClientSecret": "",
+  "localePreference": "default",
+  "apiKey": "",
+  "openPageOnCompletion": true,
+  "showCoverImageInSearch": false,
+  "enableCoverImageSave": false,
+  "coverImagePath": "",
+  "askForLocale": true
 }

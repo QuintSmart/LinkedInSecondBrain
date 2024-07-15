@@ -6,11 +6,11 @@ tags:
 - journalling/daily_notes
 ---
 
-# <% tp.file.title %>
-<< [[<% tp.date.now("YYYY-MM-DD_ddd", -1) %>]] | [[<% tp.date.now("YYYY-MM-DD_ddd", 1) %>]] >>
+# zoottel_template
+<< [[2024-07-14_Sun]] | [[2024-07-16_Tue]] >>
 
-Current week: [[S01 Personal/040-049 Journal/42 Weekly Notes/<% tp.date.now("YYYY-[W]WW") %> |<% tp.date.now("YYYY-[W]WW") %>]] | Next week: [[S01 Personal/040-049 Journal/42 Weekly Notes/<% tp.date.now("YYYY-[W]WW", "P+1W") %> |<% tp.date.now("YYYY-[W]WW", "P+1W") %>]]
-Current month: [[S01 Personal/040-049 Journal/43 Monthly Notes/<% tp.date.now("YYYY-MM") %> |<% tp.date.now("YYYY-MM") %>]] | Next month: [[S01 Personal/040-049 Journal/43 Monthly Notes/<% tp.date.now("YYYY-MM", "P+1M") %> |<% tp.date.now("YYYY-MM", "P+1M") %>]]
+Current week: [[S01 Personal/040-049 Journal/42 Weekly Notes/2024-W29 |2024-W29]] | Next week: [[S01 Personal/040-049 Journal/42 Weekly Notes/2024-W30 |2024-W30]]
+Current month: [[S01 Personal/040-049 Journal/43 Monthly Notes/2024-07 |2024-07]] | Next month: [[S01 Personal/040-049 Journal/43 Monthly Notes/2024-08 |2024-08]]
 
 
 ## Notes of the day

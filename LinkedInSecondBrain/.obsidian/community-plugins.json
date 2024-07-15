@@ -37,7 +37,11 @@
   "obsidian-style-settings",
   "obsidian-frontmatter-tag-suggest",
   "obsidian-banners",
-  "obsidian-textgenerator-plugin",
   "obsidian-link-converter",
-  "obsidian-advanced-uri"
+  "obsidian-advanced-uri",
+  "obsidian-vault-statistics-plugin",
+  "file-explorer-note-count",
+  "alx-folder-note",
+  "folder-note-core",
+  "alx-folder-note-folderv"
 ]

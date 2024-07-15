@@ -9,37 +9,37 @@
       "day": {
         "enabled": true,
         "format": "YYYY-MM-DD_ddd",
-        "folder": "S01 Personal/040-049 Journal/41 Daily Notes",
+        "folder": "S01 LinkedIn/040-049 Journal/41 Daily Notes",
         "openAtStartup": false,
-        "templatePath": "S01 Personal/060-069 Utilities/64 Templates/TPL Daily Note.md"
+        "templatePath": "S01 LinkedIn/060-069 Utilities/64 Templates/TPL Daily Note.md"
       },
       "week": {
         "enabled": true,
         "format": "",
-        "folder": "S01 Personal/040-049 Journal/42 Weekly Notes",
+        "folder": "S01 LinkedIn/040-049 Journal/42 Weekly Notes",
         "openAtStartup": false,
-        "templatePath": "S01 Personal/060-069 Utilities/64 Templates/TPL Weekly Note.md"
+        "templatePath": "S01 LinkedIn/060-069 Utilities/64 Templates/TPL Weekly Note.md"
       },
       "month": {
         "enabled": true,
         "format": "",
-        "folder": "S01 Personal/040-049 Journal/43 Monthly Notes",
+        "folder": "S01 LinkedIn/040-049 Journal/43 Monthly Notes",
         "openAtStartup": false,
-        "templatePath": "S01 Personal/060-069 Utilities/64 Templates/TPL Monthly Note.md"
+        "templatePath": "S01 LinkedIn/060-069 Utilities/64 Templates/TPL Monthly Note.md"
       },
       "quarter": {
-        "enabled": true,
+        "enabled": false,
         "format": "",
-        "folder": "S01 Personal/040-049 Journal/44 Quarterly Notes",
+        "folder": "S01 LinkedIn/040-049 Journal/",
         "openAtStartup": false,
-        "templatePath": "S01 Personal/060-069 Utilities/64 Templates/TPL Quarterly Note.md"
+        "templatePath": "S01 LinkedIn/060-069 Utilities/64 Templates/TPL Quarterly Note.md"
       },
       "year": {
-        "enabled": true,
+        "enabled": false,
         "format": "",
-        "folder": "S01 Personal/040-049 Journal/45 Yearly Notes",
+        "folder": "S01 LinkedIn/040-049 Journal/45 Yearly Notes",
         "openAtStartup": false,
-        "templatePath": "S01 Personal/060-069 Utilities/64 Templates/TPL Yearly Note.md"
+        "templatePath": "S01 LinkedIn/060-069 Utilities/64 Templates/TPL Yearly Note.md"
       },
       "id": "Default",
       "ctime": "2022-06-02T16:54:47+02:00"

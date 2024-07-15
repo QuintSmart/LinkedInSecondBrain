@@ -3,7 +3,7 @@ tags:
 - epstatus/0-🌰
 - type/literature-note
 ---
-# [[<% tp.file.title %> ]]
+# [[zoottel_template ]]
 
 <% tp.file.cursor() %>
 

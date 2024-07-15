@@ -3,10 +3,10 @@ tags:
 - journalling/weekly_notes
 ---
 
-# <% tp.file.title %> - Week in review
-<< [[<% tp.date.now("YYYY-[W]WW", "P-1W") %>]] | [[<% tp.date.now("YYYY-[W]WW", "P+1W") %>]] >>
-Current month: [[S01 Personal/040-049 Journal/43 Monthly Notes/<% tp.date.now("YYYY-MM") %> |<% tp.date.now("YYYY-MM") %>]] | Next month: [[S01 Personal/040-049 Journal/43 Monthly Notes/<% tp.date.now("YYYY-MM", "P+1M") %> |<% tp.date.now("YYYY-MM", "P+1M") %>]]
-Year note: [[<% tp.date.now("YYYY") %>]]
+# Literature Notes - Week in review
+<< [[2024-W28]] | [[2024-W30]] >>
+Current month: [[S01 Personal/040-049 Journal/43 Monthly Notes/2024-07 |2024-07]] | Next month: [[S01 Personal/040-049 Journal/43 Monthly Notes/2024-08 |2024-08]]
+Year note: [[2024]]
 
 ## Goals
 - 

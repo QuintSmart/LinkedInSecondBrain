@@ -3,8 +3,8 @@ tags:
 - journalling/yearly_notes
 ---
 
-# <% tp.file.title %> - Year in review
-<< [[<% tp.date.now("YYYY", "P-1Y") %>]] | [[<% tp.date.now("YYYY", "P+1Y") %>]] >>
+# Literature Notes - Year in review
+<< [[2023]] | [[2025]] >>
 
 ## Achievements
 - 

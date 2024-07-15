@@ -3,7 +3,7 @@ tags:
 - epstatus/1-🌱
 - type/permanent-note
 ---
-# [[<% tp.file.title %> ]]
+# [[zoottel_template ]]
 <% tp.file.cursor() %>
 
 # Linking
