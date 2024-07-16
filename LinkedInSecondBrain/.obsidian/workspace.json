@@ -4,21 +4,66 @@
     "type": "split",
     "children": [
       {
-        "id": "239695f7d148a468",
+        "id": "8ff5fb2c04ba2d2b",
         "type": "tabs",
+        "dimension": 39.83253588516747,
         "children": [
           {
-            "id": "5bbaec78300fa529",
+            "id": "11a0e983dc259882",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinkedInSecondBrain.md",
-                "mode": "source",
+                "file": "S01 LinkedIn/100-199 Projects/101 LinkedIn to 5000/The Experiment and PACT.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
-            }
+            },
+            "group": "ee270bd7e831a17f"
+          }
+        ]
+      },
+      {
+        "id": "60d4821ce0ef4e2d",
+        "type": "tabs",
+        "dimension": 60.16746411483254,
+        "children": [
+          {
+            "id": "465f6c318e52078d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "S01 LinkedIn/100-199 Projects/101 LinkedIn to 5000/The Experiment and PACT.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.746769080134994,
+                  "close": false
+                }
+              }
+            },
+            "group": "ee270bd7e831a17f"
           }
         ]
       }
@@ -58,6 +103,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "cf64e5f53d9f3216",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {}
+            }
           }
         ]
       },
@@ -87,7 +140,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 200
   },
   "right": {
     "id": "e097fb3699a615ee",
@@ -104,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinkedInSecondBrain.md",
+                "file": "S01 LinkedIn/100-199 Projects/101 LinkedIn to 5000/The Experiment and PACT.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinkedInSecondBrain.md",
+                "file": "S01 LinkedIn/100-199 Projects/101 LinkedIn to 5000/The Experiment and PACT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinkedInSecondBrain.md"
+                "file": "S01 LinkedIn/100-199 Projects/101 LinkedIn to 5000/The Experiment and PACT.md"
               }
             }
           }
@@ -182,7 +235,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "LinkedInSecondBrain.md",
+                "file": "S01 LinkedIn/100-199 Projects/101 LinkedIn to 5000/The Experiment and PACT.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -246,24 +299,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": true,
       "periodic-notes:Open today's daily note": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "dbfolder:Create a new database table": true,
-      "obsidian-textgenerator-plugin:Generate Text!": true,
       "extract-highlights-plugin:Extract Highlights": true,
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": true
     }
   },
-  "active": "a83562435e5d75b6",
+  "active": "465f6c318e52078d",
   "lastOpenFiles": [
+    "S01 LinkedIn/100-199 Projects/101 LinkedIn to 5000/The Experiment and PACT.md",
+    "S01 LinkedIn/100-199 Projects/101 LinkedIn to 5000/12 weeks LinkedIn mastery course.md",
+    "S01 LinkedIn/100-199 Projects/101 LinkedIn to 5000/101 LinkedIn to 5000.md",
+    "LinkedInSecondBrain.md",
     "S01 LinkedIn/030-039 Areas/35 Profile",
     "S01 LinkedIn/030-039 Areas/34 Content",
     "S01 LinkedIn/030-039 Areas/33 Engagement",
     "S01 LinkedIn/100-199 Projects/101 LinkedIn to 5000",
     "🌱 Start Here.md",
     "Home.md",
-    "LinkedInSecondBrain.md",
     "S01 LinkedIn/060-069 Utilities/64 Templates/TPL Weekly Note.md",
     "S01 LinkedIn/100-199 Projects/110 Building a Second Brain with Obsidian/110 Building a Second Brain with Obsidian.md",
     "S01 LinkedIn/100-199 Projects/110 Building a Second Brain with Obsidian/30-39 Areas/action driven learning/week 1/week 1.md",
@@ -295,13 +349,10 @@
     "S01 LinkedIn/060-069 Utilities/62 Excalidraw/Scripts/Downloaded/Expand rectangles vertically keep text centered.md",
     "S01 LinkedIn/060-069 Utilities/62 Excalidraw/Scripts/Downloaded/Expand rectangles horizontally.md",
     "S01 LinkedIn/060-069 Utilities/62 Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.md",
-    "S01 LinkedIn/060-069 Utilities/62 Excalidraw/Scripts/Downloaded/Elbow connectors.md",
-    "S01 LinkedIn/060-069 Utilities/62 Excalidraw/Scripts/Downloaded/Downloaded.md",
     "S01 LinkedIn/030-039 Areas/32 Zettelkasten/Literature Notes/Book notes/Kindle",
     "S01 LinkedIn/100-199 Projects/110 Building a Second Brain with Obsidian/30-39 Areas/action driven learning",
     "S01 LinkedIn/060-069 Utilities/62 Excalidraw/Scripts/Downloaded",
     "S01 LinkedIn/030-039 Areas/32 Zettelkasten/Literature Notes/Literature Inbox",
-    "S01 LinkedIn/030-039 Areas/32 Zettelkasten/Literature Notes/Book notes",
-    "S01 LinkedIn/100-199 Projects/110 Building a Second Brain with Obsidian/30-39 Areas"
+    "S01 LinkedIn/030-039 Areas/32 Zettelkasten/Literature Notes/Book notes"
   ]
 }
