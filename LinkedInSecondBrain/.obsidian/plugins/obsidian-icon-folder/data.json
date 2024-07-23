@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSettings",
       "FasCircleArrowRight",
       "FasHouseUser",
       "SiNeutralinojs",
-      "FasBrain",
-      "RiMentalHealthFill"
+      "FasBrain"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -46,5 +46,6 @@
   "Home.md": "FasHouseUser",
   "🌱 Start Here.md": "FasCircleArrowRight",
   "S00 Second Brain Meta": "FabEnvira",
-  "S00 Second Brain Meta/030-039 Areas/31 Second Brain": "SiNeutralinojs"
+  "S00 Second Brain Meta/030-039 Areas/31 Second Brain": "SiNeutralinojs",
+  "S01 LinkedIn/030-039 Areas/32 Zettelkasten/Literature Notes/Book notes/Setup Kindle workflow.md": "LiSettings"
 }

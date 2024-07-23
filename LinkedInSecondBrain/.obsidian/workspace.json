@@ -6,7 +6,6 @@
       {
         "id": "8ff5fb2c04ba2d2b",
         "type": "tabs",
-        "dimension": 39.83253588516747,
         "children": [
           {
             "id": "11a0e983dc259882",
@@ -14,56 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "S01 LinkedIn/100-199 Projects/101 LinkedIn to 5000/The Experiment and PACT.md",
-                "mode": "preview",
+                "file": "S01 LinkedIn/030-039 Areas/34 Content/Use Contrasts in Stories.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            },
-            "group": "ee270bd7e831a17f"
-          }
-        ]
-      },
-      {
-        "id": "60d4821ce0ef4e2d",
-        "type": "tabs",
-        "dimension": 60.16746411483254,
-        "children": [
+            }
+          },
           {
-            "id": "465f6c318e52078d",
+            "id": "cd2cf69f1616bba7",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "markdown",
               "state": {
-                "file": "S01 LinkedIn/100-199 Projects/101 LinkedIn to 5000/The Experiment and PACT.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.746769080134994,
-                  "close": false
-                }
+                "file": "S01 LinkedIn/030-039 Areas/34 Content/Learning about Hooks.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
-            },
-            "group": "ee270bd7e831a17f"
+            }
           }
         ]
       }
@@ -135,12 +103,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 487.5
   },
   "right": {
     "id": "e097fb3699a615ee",
@@ -157,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S01 LinkedIn/100-199 Projects/101 LinkedIn to 5000/The Experiment and PACT.md",
+                "file": "S01 LinkedIn/030-039 Areas/34 Content/Use Contrasts in Stories.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S01 LinkedIn/100-199 Projects/101 LinkedIn to 5000/The Experiment and PACT.md",
+                "file": "S01 LinkedIn/030-039 Areas/34 Content/Use Contrasts in Stories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -218,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S01 LinkedIn/100-199 Projects/101 LinkedIn to 5000/The Experiment and PACT.md"
+                "file": "S01 LinkedIn/030-039 Areas/34 Content/Use Contrasts in Stories.md"
               }
             }
           }
@@ -235,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "S01 LinkedIn/100-199 Projects/101 LinkedIn to 5000/The Experiment and PACT.md",
+                "file": "S01 LinkedIn/030-039 Areas/34 Content/Use Contrasts in Stories.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -280,8 +247,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 438.5,
-    "collapsed": true
+    "width": 438.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -306,53 +272,53 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": true
     }
   },
-  "active": "465f6c318e52078d",
+  "active": "11a0e983dc259882",
   "lastOpenFiles": [
-    "S01 LinkedIn/100-199 Projects/101 LinkedIn to 5000/The Experiment and PACT.md",
-    "S01 LinkedIn/100-199 Projects/101 LinkedIn to 5000/12 weeks LinkedIn mastery course.md",
-    "S01 LinkedIn/100-199 Projects/101 LinkedIn to 5000/101 LinkedIn to 5000.md",
-    "LinkedInSecondBrain.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/attachments/Pasted image 20240722171235.png",
+    "S01 LinkedIn/030-039 Areas/34 Content/Storytelling on LinkedIn.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/Use Contrasts in Stories.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/attachments/Pasted image 20240722112200.png",
+    "S01 LinkedIn/030-039 Areas/34 Content/attachments/Pasted image 20240722112138.png",
+    "S01 LinkedIn/030-039 Areas/34 Content/attachments/Pasted image 20240722112107.png",
+    "S01 LinkedIn/030-039 Areas/34 Content/attachments/Pasted image 20240722112051.png",
+    "S01 LinkedIn/030-039 Areas/34 Content/PAS - Pain-Agitate-Solution.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/attachments/Pasted image 20240722101742.png",
+    "S01 LinkedIn/030-039 Areas/35 Profile/Hints for Ideal Client Profile.md",
+    "S01 LinkedIn/030-039 Areas/33 Engagement/6 Step posting guide.md",
+    "S01 LinkedIn/030-039 Areas/33 Engagement/Commenting Strategy.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/Commenting Section.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/Learn about winning formats with experiments.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/Differentiation of Post Types.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/Transform strangers to Allies.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/attachments/Pasted image 20240720152352.png",
+    "S01 LinkedIn/030-039 Areas/34 Content/attachments/Pasted image 20240720152133.png",
+    "S01 LinkedIn/030-039 Areas/34 Content/attachments/Pasted image 20240720151901.png",
+    "S01 LinkedIn/030-039 Areas/34 Content/Master personal storytelling.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/Make it about THEM.md",
+    "S01 LinkedIn/030-039 Areas/35 Profile/Tuning Own headline.md",
+    "S01 LinkedIn/030-039 Areas/35 Profile/attachments/11 Proven LinkedIn Headlines.pdf",
+    "S01 LinkedIn/030-039 Areas/35 Profile/attachments",
+    "S01 LinkedIn/030-039 Areas/34 Content/Content elements.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/Copywriting orientation.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/Unleash the Power of your Personal Brand by Lara Acosta.md",
+    "S01 LinkedIn/030-039 Areas/33 Engagement/Engagement 101.md",
+    "S01 LinkedIn/030-039 Areas/33 Engagement/33 Engagement.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/LinkedIn Writing Insights.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/attachments/Pasted image 20240718121540.png",
+    "S01 LinkedIn/030-039 Areas/35 Profile/Tune the Featured Section.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/LinkedIn Size Insights.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/attachments/Pasted image 20240718120251.png",
+    "S01 LinkedIn/030-039 Areas/35 Profile/Tune the About You section.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/attachments",
+    "S01 LinkedIn/030-039 Areas/35 Profile/Profile Optimization Checklist.md",
+    "S01 LinkedIn/030-039 Areas/35 Profile/35 Profile.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/Learning about Hooks.md",
+    "S01 LinkedIn/030-039 Areas/32 Zettelkasten/Literature Notes/Book notes/attachments",
     "S01 LinkedIn/030-039 Areas/35 Profile",
     "S01 LinkedIn/030-039 Areas/34 Content",
     "S01 LinkedIn/030-039 Areas/33 Engagement",
     "S01 LinkedIn/100-199 Projects/101 LinkedIn to 5000",
-    "🌱 Start Here.md",
-    "Home.md",
-    "S01 LinkedIn/060-069 Utilities/64 Templates/TPL Weekly Note.md",
-    "S01 LinkedIn/100-199 Projects/110 Building a Second Brain with Obsidian/110 Building a Second Brain with Obsidian.md",
-    "S01 LinkedIn/100-199 Projects/110 Building a Second Brain with Obsidian/30-39 Areas/action driven learning/week 1/week 1.md",
-    "S01 LinkedIn/100-199 Projects/110 Building a Second Brain with Obsidian/30-39 Areas/action driven learning/week 1/Create a Journal entry for today and link with first learning.md",
-    "S01 LinkedIn/030-039 Areas/32 Zettelkasten/Literature Notes/Book notes/Kindle/Kindle.md",
-    "S01 LinkedIn/100-199 Projects/110 Building a Second Brain with Obsidian/30-39 Areas/action driven learning/action driven learning.md",
     "S01 LinkedIn/100-199 Projects/110 Building a Second Brain with Obsidian/30-39 Areas/action driven learning/week 1",
-    "S01 LinkedIn/060-069 Utilities/62 Excalidraw/Scripts/Downloaded/TheBrain-navigation.svg",
-    "S01 LinkedIn/060-069 Utilities/62 Excalidraw/Scripts/Downloaded/TheBrain-navigation.md",
-    "S01 LinkedIn/060-069 Utilities/62 Excalidraw/Scripts/Downloaded/TheBrain-navigation 1.svg",
-    "S01 LinkedIn/060-069 Utilities/62 Excalidraw/Scripts/Downloaded/TheBrain-navigation 1.md",
-    "S01 LinkedIn/060-069 Utilities/62 Excalidraw/Scripts/Downloaded/Set Grid.svg",
-    "S01 LinkedIn/060-069 Utilities/62 Excalidraw/Scripts/Downloaded/Set Grid.md",
-    "S01 LinkedIn/060-069 Utilities/62 Excalidraw/Scripts/Downloaded/Repeat Elements.svg",
-    "S01 LinkedIn/060-069 Utilities/62 Excalidraw/Scripts/Downloaded/Repeat Elements.md",
-    "S01 LinkedIn/060-069 Utilities/62 Excalidraw/Scripts/Downloaded/Palette loader.svg",
-    "S01 LinkedIn/060-069 Utilities/62 Excalidraw/Scripts/Downloaded/Palette loader.md",
-    "S01 LinkedIn/060-069 Utilities/62 Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.svg",
-    "S01 LinkedIn/060-069 Utilities/62 Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.md",
-    "S01 LinkedIn/060-069 Utilities/62 Excalidraw/Scripts/Downloaded/Modify background color opacity.svg",
-    "S01 LinkedIn/060-069 Utilities/62 Excalidraw/Scripts/Downloaded/Modify background color opacity.md",
-    "S01 LinkedIn/060-069 Utilities/62 Excalidraw/Scripts/Downloaded/Lighten background color.svg",
-    "S01 LinkedIn/060-069 Utilities/62 Excalidraw/Scripts/Downloaded/Lighten background color.md",
-    "S01 LinkedIn/060-069 Utilities/62 Excalidraw/Scripts/Downloaded/Fixed vertical distance.svg",
-    "S01 LinkedIn/060-069 Utilities/62 Excalidraw/Scripts/Downloaded/Fixed vertical distance.md",
-    "S01 LinkedIn/060-069 Utilities/62 Excalidraw/Scripts/Downloaded/Fixed spacing.svg",
-    "S01 LinkedIn/060-069 Utilities/62 Excalidraw/Scripts/Downloaded/Fixed spacing.md",
-    "S01 LinkedIn/060-069 Utilities/62 Excalidraw/Scripts/Downloaded/Expand rectangles vertically.md",
-    "S01 LinkedIn/060-069 Utilities/62 Excalidraw/Scripts/Downloaded/Expand rectangles vertically keep text centered.md",
-    "S01 LinkedIn/060-069 Utilities/62 Excalidraw/Scripts/Downloaded/Expand rectangles horizontally.md",
-    "S01 LinkedIn/060-069 Utilities/62 Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.md",
-    "S01 LinkedIn/030-039 Areas/32 Zettelkasten/Literature Notes/Book notes/Kindle",
-    "S01 LinkedIn/100-199 Projects/110 Building a Second Brain with Obsidian/30-39 Areas/action driven learning",
-    "S01 LinkedIn/060-069 Utilities/62 Excalidraw/Scripts/Downloaded",
-    "S01 LinkedIn/030-039 Areas/32 Zettelkasten/Literature Notes/Literature Inbox",
-    "S01 LinkedIn/030-039 Areas/32 Zettelkasten/Literature Notes/Book notes"
+    "S01 LinkedIn/030-039 Areas/32 Zettelkasten/Literature Notes/Book notes/Kindle"
   ]
 }
