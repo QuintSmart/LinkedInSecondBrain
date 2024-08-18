@@ -4,33 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "8ff5fb2c04ba2d2b",
+        "id": "ec924faa4d2ab496",
         "type": "tabs",
         "children": [
           {
-            "id": "11a0e983dc259882",
+            "id": "320e88a1376a4eeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "S01 LinkedIn/030-039 Areas/34 Content/Use Contrasts in Stories.md",
-                "mode": "source",
+                "file": "🌱 Start Here.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "21c3a19bce1140cf",
+        "type": "tabs",
+        "children": [
           {
-            "id": "cd2cf69f1616bba7",
+            "id": "d68946614c4b1335",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "S01 LinkedIn/030-039 Areas/34 Content/Learning about Hooks.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -103,11 +104,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 487.5
+    "width": 293.5
   },
   "right": {
     "id": "e097fb3699a615ee",
@@ -116,7 +118,7 @@
       {
         "id": "f0d3dceb8a73d9d0",
         "type": "tabs",
-        "dimension": 24.327485380116958,
+        "dimension": 24.349881796690305,
         "children": [
           {
             "id": "122fa56f0c3fc01b",
@@ -124,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S01 LinkedIn/030-039 Areas/34 Content/Use Contrasts in Stories.md",
+                "file": "🌱 Start Here.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,18 +143,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S01 LinkedIn/030-039 Areas/34 Content/Use Contrasts in Stories.md",
+                "file": "🌱 Start Here.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
-            }
-          },
-          {
-            "id": "23ccc51f43e6049c",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           },
           {
@@ -170,14 +164,22 @@
               "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
+          },
+          {
+            "id": "23ccc51f43e6049c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "0b05d76037948644",
         "type": "tabs",
-        "dimension": 52.28070175438595,
+        "dimension": 46.09929078014184,
         "children": [
           {
             "id": "5952a860b039a453",
@@ -185,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S01 LinkedIn/030-039 Areas/34 Content/Use Contrasts in Stories.md"
+                "file": "🌱 Start Here.md"
               }
             }
           }
@@ -194,7 +196,7 @@
       {
         "id": "c847376ecaca3053",
         "type": "tabs",
-        "dimension": 23.39181286549708,
+        "dimension": 29.55082742316785,
         "children": [
           {
             "id": "beedd2cb7d1ec9d3",
@@ -202,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "S01 LinkedIn/030-039 Areas/34 Content/Use Contrasts in Stories.md",
+                "file": "🌱 Start Here.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -242,12 +244,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 438.5
+    "width": 438.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,56 +271,57 @@
       "obsidian-book-search-plugin:Create new book note": false,
       "dbfolder:Create a new database table": true,
       "extract-highlights-plugin:Extract Highlights": true,
-      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": true
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": true,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "11a0e983dc259882",
+  "active": "d68946614c4b1335",
   "lastOpenFiles": [
+    "🌱 Start Here.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/MOC Hooks or Headlines.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/About Writing Headlines.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/📚 Books about Writing.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/Lessons from David Ogilvy.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/Use the 4P approach.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/Learning about Hooks.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/34 Content.md",
+    "S01 LinkedIn/030-039 Areas/Area Mind Map.excalidraw.md",
+    "Home.md",
+    "Brand Voice Attributes.pdf",
+    "S01 LinkedIn/100-199 Projects/101 LinkedIn to 5000/The Experiment and PACT.md",
+    "S01 LinkedIn/030-039 Areas/35 Profile/35 Profile.md",
+    "S01 LinkedIn/030-039 Areas/33 Engagement/33 Engagement.md",
+    "S01 LinkedIn/030-039 Areas/attachments/Pasted Image 20240813202607_589.png",
+    "S01 LinkedIn/030-039 Areas/attachments",
+    "S01 LinkedIn/030-039 Areas/34 Content/Five ways to format better.md",
+    "S01 LinkedIn/030-039 Areas/33 Engagement/7 steps to Money with LinkedIn.md",
+    "S01 LinkedIn/030-039 Areas/Area Mind Map.excalidraw.svg",
+    "S01 LinkedIn/030-039 Areas/34 Content/On Finding Ideas to Write about.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/Hint for Headlines.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/Powerful Verbs instead of Adjectives.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/Numbers in Hooks.md",
+    "S01 LinkedIn/030-039 Areas/36 Growth Journeys/Focus on What matters instead of Vanity Metrics.md",
+    "S01 LinkedIn/030-039 Areas/33 Engagement/Commenting Strategy.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/📚 Great Books about Learning.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/📚 Books Recommended by Lara Acosta.md",
+    "S01 LinkedIn/030-039 Areas/36 Growth Journeys/Hanna Larsson - The Future of Work Newsletter.md",
+    "S01 LinkedIn/030-039 Areas/36 Growth Journeys/36 Growth Journeys.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/Inspiration from Top Movie quotes.md",
+    "S01 LinkedIn/030-039 Areas/36 Growth Journeys",
+    "S01 LinkedIn/030-039 Areas/34 Content/attachments/Pasted image 20240730140832.png",
+    "S01 LinkedIn/030-039 Areas/34 Content/attachments/Pasted image 20240730085144.png",
+    "S01 LinkedIn/030-039 Areas/34 Content/attachments/GreatBooksAboutLearning.pdf",
+    "S01 LinkedIn/030-039 Areas/34 Content/attachments/6 Top Books recommended by Lara Acosta.pdf",
+    "S01 LinkedIn/030-039 Areas/34 Content/Untitled",
+    "S01 LinkedIn/030-039 Areas/34 Content/attachments/On writing.pdf",
+    "S01 LinkedIn/030-039 Areas/34 Content/attachments/Pasted image 20240725160802.png",
+    "S01 LinkedIn/030-039 Areas/34 Content/attachments/wheel_of_emotions.jpeg",
     "S01 LinkedIn/030-039 Areas/34 Content/attachments/Pasted image 20240722171235.png",
-    "S01 LinkedIn/030-039 Areas/34 Content/Storytelling on LinkedIn.md",
-    "S01 LinkedIn/030-039 Areas/34 Content/Use Contrasts in Stories.md",
     "S01 LinkedIn/030-039 Areas/34 Content/attachments/Pasted image 20240722112200.png",
     "S01 LinkedIn/030-039 Areas/34 Content/attachments/Pasted image 20240722112138.png",
     "S01 LinkedIn/030-039 Areas/34 Content/attachments/Pasted image 20240722112107.png",
-    "S01 LinkedIn/030-039 Areas/34 Content/attachments/Pasted image 20240722112051.png",
-    "S01 LinkedIn/030-039 Areas/34 Content/PAS - Pain-Agitate-Solution.md",
-    "S01 LinkedIn/030-039 Areas/34 Content/attachments/Pasted image 20240722101742.png",
-    "S01 LinkedIn/030-039 Areas/35 Profile/Hints for Ideal Client Profile.md",
-    "S01 LinkedIn/030-039 Areas/33 Engagement/6 Step posting guide.md",
-    "S01 LinkedIn/030-039 Areas/33 Engagement/Commenting Strategy.md",
-    "S01 LinkedIn/030-039 Areas/34 Content/Commenting Section.md",
-    "S01 LinkedIn/030-039 Areas/34 Content/Learn about winning formats with experiments.md",
-    "S01 LinkedIn/030-039 Areas/34 Content/Differentiation of Post Types.md",
-    "S01 LinkedIn/030-039 Areas/34 Content/Transform strangers to Allies.md",
-    "S01 LinkedIn/030-039 Areas/34 Content/attachments/Pasted image 20240720152352.png",
-    "S01 LinkedIn/030-039 Areas/34 Content/attachments/Pasted image 20240720152133.png",
-    "S01 LinkedIn/030-039 Areas/34 Content/attachments/Pasted image 20240720151901.png",
-    "S01 LinkedIn/030-039 Areas/34 Content/Master personal storytelling.md",
-    "S01 LinkedIn/030-039 Areas/34 Content/Make it about THEM.md",
-    "S01 LinkedIn/030-039 Areas/35 Profile/Tuning Own headline.md",
     "S01 LinkedIn/030-039 Areas/35 Profile/attachments/11 Proven LinkedIn Headlines.pdf",
     "S01 LinkedIn/030-039 Areas/35 Profile/attachments",
-    "S01 LinkedIn/030-039 Areas/34 Content/Content elements.md",
-    "S01 LinkedIn/030-039 Areas/34 Content/Copywriting orientation.md",
-    "S01 LinkedIn/030-039 Areas/34 Content/Unleash the Power of your Personal Brand by Lara Acosta.md",
-    "S01 LinkedIn/030-039 Areas/33 Engagement/Engagement 101.md",
-    "S01 LinkedIn/030-039 Areas/33 Engagement/33 Engagement.md",
-    "S01 LinkedIn/030-039 Areas/34 Content/LinkedIn Writing Insights.md",
-    "S01 LinkedIn/030-039 Areas/34 Content/attachments/Pasted image 20240718121540.png",
-    "S01 LinkedIn/030-039 Areas/35 Profile/Tune the Featured Section.md",
-    "S01 LinkedIn/030-039 Areas/34 Content/LinkedIn Size Insights.md",
-    "S01 LinkedIn/030-039 Areas/34 Content/attachments/Pasted image 20240718120251.png",
-    "S01 LinkedIn/030-039 Areas/35 Profile/Tune the About You section.md",
-    "S01 LinkedIn/030-039 Areas/34 Content/attachments",
-    "S01 LinkedIn/030-039 Areas/35 Profile/Profile Optimization Checklist.md",
-    "S01 LinkedIn/030-039 Areas/35 Profile/35 Profile.md",
-    "S01 LinkedIn/030-039 Areas/34 Content/Learning about Hooks.md",
-    "S01 LinkedIn/030-039 Areas/32 Zettelkasten/Literature Notes/Book notes/attachments",
-    "S01 LinkedIn/030-039 Areas/35 Profile",
-    "S01 LinkedIn/030-039 Areas/34 Content",
-    "S01 LinkedIn/030-039 Areas/33 Engagement",
-    "S01 LinkedIn/100-199 Projects/101 LinkedIn to 5000",
-    "S01 LinkedIn/100-199 Projects/110 Building a Second Brain with Obsidian/30-39 Areas/action driven learning/week 1",
-    "S01 LinkedIn/030-039 Areas/32 Zettelkasten/Literature Notes/Book notes/Kindle"
+    "S01 LinkedIn/030-039 Areas/34 Content/attachments"
   ]
 }

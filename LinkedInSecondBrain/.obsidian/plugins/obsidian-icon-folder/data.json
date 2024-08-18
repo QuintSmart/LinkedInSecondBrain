@@ -36,7 +36,8 @@
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
-    "debugMode": false
+    "debugMode": false,
+    "lucideIconPackType": "native"
   },
   "S01 Personal/100-199 Projects/101 Hausbau": "FasHouseChimneyUser",
   "S01 Personal/100-199 Projects/103 Hochzeit": "RiHeartsFill",

@@ -1,25 +1,39 @@
 {
   "workspaces": {
-    "Start Here Workspace": {
+    "Linked Starter Workspace": {
       "main": {
         "id": "41a6b8e668cbb9f5",
         "type": "split",
         "children": [
           {
-            "id": "e4a88a9f63e1aa5a",
+            "id": "ec924faa4d2ab496",
             "type": "tabs",
             "children": [
               {
-                "id": "1625c4937efc52f9",
+                "id": "320e88a1376a4eeb",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
                     "file": "🌱 Start Here.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "backlinks": true,
                     "source": false
                   }
+                }
+              }
+            ]
+          },
+          {
+            "id": "21c3a19bce1140cf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d68946614c4b1335",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
                 }
               }
             ]
@@ -62,7 +76,7 @@
                 }
               },
               {
-                "id": "b2dc2c420af4ae85",
+                "id": "cf64e5f53d9f3216",
                 "type": "leaf",
                 "state": {
                   "type": "VIEW_TYPE_LONGFORM_EXPLORER",
@@ -77,26 +91,27 @@
             "dimension": 29.411764705882355,
             "children": [
               {
-                "id": "01d6432bd0373c2e",
-                "type": "leaf",
-                "state": {
-                  "type": "starred",
-                  "state": {}
-                }
-              },
-              {
                 "id": "bd68f869dedca907",
                 "type": "leaf",
                 "state": {
                   "type": "recent-files",
                   "state": {}
                 }
+              },
+              {
+                "id": "bff424a146686eca",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal",
-        "width": 324.5
+        "width": 200
       },
       "right": {
         "id": "e097fb3699a615ee",
@@ -105,7 +120,7 @@
           {
             "id": "f0d3dceb8a73d9d0",
             "type": "tabs",
-            "dimension": 24.327485380116958,
+            "dimension": 24.349881796690305,
             "children": [
               {
                 "id": "122fa56f0c3fc01b",
@@ -113,7 +128,6 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "🌱 Start Here.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -130,18 +144,9 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "🌱 Start Here.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
-                }
-              },
-              {
-                "id": "23ccc51f43e6049c",
-                "type": "leaf",
-                "state": {
-                  "type": "calendar",
-                  "state": {}
                 }
               },
               {
@@ -153,29 +158,35 @@
                 }
               },
               {
-                "id": "0964340b67d05f12",
+                "id": "d5e846f7c8a57cce",
                 "type": "leaf",
                 "state": {
                   "type": "DICE_ROLLER_VIEW",
                   "state": {}
                 }
+              },
+              {
+                "id": "23ccc51f43e6049c",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
               }
             ],
-            "currentTab": 2
+            "currentTab": 4
           },
           {
             "id": "0b05d76037948644",
             "type": "tabs",
-            "dimension": 52.28070175438596,
+            "dimension": 46.09929078014184,
             "children": [
               {
                 "id": "5952a860b039a453",
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {
-                    "file": "🌱 Start Here.md"
-                  }
+                  "state": {}
                 }
               }
             ]
@@ -183,7 +194,7 @@
           {
             "id": "c847376ecaca3053",
             "type": "tabs",
-            "dimension": 23.391812865497073,
+            "dimension": 29.55082742316785,
             "children": [
               {
                 "id": "beedd2cb7d1ec9d3",
@@ -191,7 +202,6 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "🌱 Start Here.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -231,39 +241,40 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "horizontal",
-        "width": 438.5
+        "width": 438.5,
+        "collapsed": true
       },
       "left-ribbon": {
         "hiddenItems": {
-          "periodic-notes:Open today's daily note": false,
-          "obsidian-textgenerator-plugin:Generate Text!": false,
           "switcher:Open quick switcher": false,
           "graph:Open graph view": false,
           "canvas:Create new canvas": false,
           "templates:Insert template": false,
           "command-palette:Open command palette": false,
           "markdown-importer:Open format converter": true,
-          "random-note:Open random note": false,
-          "audio-recorder:Start/stop recording": false,
+          "random-note:Open random note": true,
+          "audio-recorder:Start/stop recording": true,
           "workspaces:Manage workspace layouts": true,
-          "table-editor-obsidian:Advanced Tables Toolbar": true,
-          "templater-obsidian:Templater": true,
-          "obsidian-book-search-plugin:Create new book note": false,
-          "extract-highlights-plugin:Extract Highlights": true,
-          "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
-          "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": true,
           "daily-notes:Open today's daily note": true,
+          "obsidian-kanban:Create new board": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": true,
+          "templater-obsidian:Templater": false,
           "obsidian-excalidraw-plugin:Create new drawing": false,
-          "dbfolder:Create a new database table": false
+          "periodic-notes:Open today's daily note": false,
+          "obsidian-book-search-plugin:Create new book note": false,
+          "dbfolder:Create a new database table": true,
+          "extract-highlights-plugin:Extract Highlights": true,
+          "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": true,
+          "omnisearch:Omnisearch": false
         }
       },
-      "active": "a83562435e5d75b6"
+      "active": "d68946614c4b1335",
+      "mtime": "2024-08-18T17:15:39+02:00"
     }
   },
-  "active": "Start Here Workspace"
+  "active": "Linked Starter Workspace"
 }
