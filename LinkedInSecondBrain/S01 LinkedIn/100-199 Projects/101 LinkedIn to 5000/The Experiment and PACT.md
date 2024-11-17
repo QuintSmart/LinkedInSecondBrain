@@ -27,15 +27,15 @@ I consider that a successful experiment when:
 + I post every day ✅
 
 ### From 01.08. - 31.08.
-+ I comment on 20+ posts every day with meaningful comments 
-+ I send connect request to 20 people each day 
-+ I answer every comment to my posts 
-+ I post every day
++ I comment on 20+ posts every day with meaningful comments ✅
++ I send connect request to 20 people each day ✅
++ I answer every comment to my posts ✅
++ I post every day ✅
 + I embed 
-	+ Authority (Sales) posts  - reaching 2 per week by end of month
-	+ Story Posts - reaching 2 per week by end of month
-+ I embed further AI support for writing my posts
-+ I talked with 5 people through my upcoming offer
+	+ Authority (Sales) posts  - reaching 2 per week by end of month ✅
+	+ Story Posts - reaching 2 per week by end of month ✅
++ I embed further AI support for writing my posts ✅
++ I talked with 5 people through my upcoming offer ✅
 
 ## Observations
 [Tracking](https://docs.google.com/spreadsheets/d/1OBKIELn--ABFPUi4S-rywPqj-FuolqSQkliPbcBExiI/edit?gid=1999892315#gid=1999892315)

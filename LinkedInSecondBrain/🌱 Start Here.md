@@ -17,6 +17,8 @@ Main folder [[34 Content]]
 + [[📚 Books Recommended by Lara Acosta]]
 + [[📚 Great Books about Learning]]
 
+[[MOC Hooks or Headlines]]
+
 → [[Learning about Hooks]]
 → [[LinkedIn Size Insights]]
 → [[LinkedIn Writing Insights]]

@@ -13,6 +13,9 @@ tags:
 ### Profile banner 
 ↳ 1584px x 396px 
 
+#### Banner left side info
+566px from left side to avoid profile picture and banner overlap
+![[Pasted image 20241111085037.png|400]]
 ### Featured section
 ↳ 1200px x 627px 
 

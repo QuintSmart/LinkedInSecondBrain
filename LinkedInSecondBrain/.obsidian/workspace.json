@@ -17,7 +17,9 @@
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "🌱 Start Here"
             }
           }
         ]
@@ -31,7 +33,9 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -55,7 +59,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -70,7 +76,9 @@
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -78,7 +86,9 @@
             "type": "leaf",
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
-              "state": {}
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
             }
           }
         ]
@@ -93,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           },
           {
@@ -101,15 +113,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 200
   },
   "right": {
     "id": "e097fb3699a615ee",
@@ -134,7 +147,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 🌱 Start Here"
             }
           },
           {
@@ -146,7 +161,9 @@
                 "file": "🌱 Start Here.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 🌱 Start Here"
             }
           },
           {
@@ -154,15 +171,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "d5e846f7c8a57cce",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -170,11 +181,23 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "3365c43dc59c1180",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "0b05d76037948644",
@@ -188,7 +211,9 @@
               "type": "outline",
               "state": {
                 "file": "🌱 Start Here.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 🌱 Start Here"
             }
           }
         ]
@@ -230,7 +255,9 @@
                   "scale": 0.6577169471499419,
                   "close": true
                 }
-              }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of 🌱 Start Here"
             }
           },
           {
@@ -241,7 +268,9 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           }
         ]
@@ -277,36 +306,40 @@
   },
   "active": "d68946614c4b1335",
   "lastOpenFiles": [
+    "S01 LinkedIn/030-039 Areas/34 Content/Commenting Section.md",
     "🌱 Start Here.md",
-    "S01 LinkedIn/030-039 Areas/34 Content/MOC Hooks or Headlines.md",
-    "S01 LinkedIn/030-039 Areas/34 Content/About Writing Headlines.md",
-    "S01 LinkedIn/030-039 Areas/34 Content/📚 Books about Writing.md",
-    "S01 LinkedIn/030-039 Areas/34 Content/Lessons from David Ogilvy.md",
-    "S01 LinkedIn/030-039 Areas/34 Content/Use the 4P approach.md",
-    "S01 LinkedIn/030-039 Areas/34 Content/Learning about Hooks.md",
-    "S01 LinkedIn/030-039 Areas/34 Content/34 Content.md",
-    "S01 LinkedIn/030-039 Areas/Area Mind Map.excalidraw.md",
-    "Home.md",
-    "Brand Voice Attributes.pdf",
-    "S01 LinkedIn/100-199 Projects/101 LinkedIn to 5000/The Experiment and PACT.md",
-    "S01 LinkedIn/030-039 Areas/35 Profile/35 Profile.md",
-    "S01 LinkedIn/030-039 Areas/33 Engagement/33 Engagement.md",
-    "S01 LinkedIn/030-039 Areas/attachments/Pasted Image 20240813202607_589.png",
-    "S01 LinkedIn/030-039 Areas/attachments",
-    "S01 LinkedIn/030-039 Areas/34 Content/Five ways to format better.md",
-    "S01 LinkedIn/030-039 Areas/33 Engagement/7 steps to Money with LinkedIn.md",
-    "S01 LinkedIn/030-039 Areas/Area Mind Map.excalidraw.svg",
-    "S01 LinkedIn/030-039 Areas/34 Content/On Finding Ideas to Write about.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/Finding your voice.md",
     "S01 LinkedIn/030-039 Areas/34 Content/Hint for Headlines.md",
-    "S01 LinkedIn/030-039 Areas/34 Content/Powerful Verbs instead of Adjectives.md",
-    "S01 LinkedIn/030-039 Areas/34 Content/Numbers in Hooks.md",
-    "S01 LinkedIn/030-039 Areas/36 Growth Journeys/Focus on What matters instead of Vanity Metrics.md",
-    "S01 LinkedIn/030-039 Areas/33 Engagement/Commenting Strategy.md",
     "S01 LinkedIn/030-039 Areas/34 Content/📚 Great Books about Learning.md",
     "S01 LinkedIn/030-039 Areas/34 Content/📚 Books Recommended by Lara Acosta.md",
-    "S01 LinkedIn/030-039 Areas/36 Growth Journeys/Hanna Larsson - The Future of Work Newsletter.md",
-    "S01 LinkedIn/030-039 Areas/36 Growth Journeys/36 Growth Journeys.md",
-    "S01 LinkedIn/030-039 Areas/34 Content/Inspiration from Top Movie quotes.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/📚 Books about Writing.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/Basic vs Activating desire.md",
+    "S01 LinkedIn/100-199 Projects/101 LinkedIn to 5000/Test with Links.md",
+    "S00 Second Brain Meta/030-039 Areas/33 Obsidian setup/Currently used Plugins in an overview.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/About Writing Headlines.md",
+    "S01 LinkedIn/100-199 Projects/101 LinkedIn to 5000/The Experiment and PACT.md",
+    "S01 LinkedIn/030-039 Areas/33 Engagement/Commenting Strategy.md",
+    "S01 LinkedIn/030-039 Areas/33 Engagement/6 Step posting guide.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/MOC Hooks or Headlines.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/Hooks with What not to do,have, be.md",
+    "S01 LinkedIn/100-199 Projects/101 LinkedIn to 5000/12 weeks LinkedIn mastery course.md",
+    "smart-chats/UNTITLED CHAT 2024-08-18 16 12 04.md",
+    "First Checks Certification.pdf",
+    "S01 LinkedIn/030-039 Areas/Area Mind Map.excalidraw.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/LinkedIn Formatting Collection.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/Learning about Hooks.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/How to work with numbers so they persuade.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/34 Content.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/Insight on Hook and Re-Hook.md",
+    "S01 LinkedIn/030-039 Areas/33 Engagement/Great Statistics about LinkedIn usage.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/Show yourself.md",
+    "S01 LinkedIn/030-039 Areas/34 Content/attachments/Pasted image 20240907053813.png",
+    "Chats",
+    "smart-chats",
+    "Brand Voice Attributes.pdf",
+    "S01 LinkedIn/030-039 Areas/attachments/Pasted Image 20240813202607_589.png",
+    "S01 LinkedIn/030-039 Areas/attachments",
+    "S01 LinkedIn/030-039 Areas/Area Mind Map.excalidraw.svg",
     "S01 LinkedIn/030-039 Areas/36 Growth Journeys",
     "S01 LinkedIn/030-039 Areas/34 Content/attachments/Pasted image 20240730140832.png",
     "S01 LinkedIn/030-039 Areas/34 Content/attachments/Pasted image 20240730085144.png",
@@ -318,10 +351,6 @@
     "S01 LinkedIn/030-039 Areas/34 Content/attachments/wheel_of_emotions.jpeg",
     "S01 LinkedIn/030-039 Areas/34 Content/attachments/Pasted image 20240722171235.png",
     "S01 LinkedIn/030-039 Areas/34 Content/attachments/Pasted image 20240722112200.png",
-    "S01 LinkedIn/030-039 Areas/34 Content/attachments/Pasted image 20240722112138.png",
-    "S01 LinkedIn/030-039 Areas/34 Content/attachments/Pasted image 20240722112107.png",
-    "S01 LinkedIn/030-039 Areas/35 Profile/attachments/11 Proven LinkedIn Headlines.pdf",
-    "S01 LinkedIn/030-039 Areas/35 Profile/attachments",
-    "S01 LinkedIn/030-039 Areas/34 Content/attachments"
+    "S01 LinkedIn/030-039 Areas/34 Content/attachments/Pasted image 20240722112138.png"
   ]
 }
